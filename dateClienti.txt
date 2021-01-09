@@ -1,0 +1,23 @@
+2
+Popescu,Mihaela,popescumihaela@gmail.com,123abc,0745362718,Calea Crangasi,
+2
+9,ruj,50.0,COSMETIC,Fenty,2
+12,rochie,320.0,IMBRACAMINTE,Zara,1
+2
+5,fard,78.0,COSMETIC, Sephora,1
+15,tort,150.0,ALIMENTAR,TIP&TOP,1
+1
+39,02.11.2018,true,RAMBURS
+2
+53,camasa,410.0,IMBRACAMINTE,TommyJeans,1
+13,casti,230.0,ELECTRONIC,Apple,1
+Iordache,Andrei,andreiiordache@gmai.com,zxcvbnm,0725341425,Calea Ceahlau,
+2
+2,tableta,3200.0,ELECTRONIC,Apple,1
+19,hanorac,200.0,IMBRACAMINTE,Adidas,1
+1
+14,tricou,190.0,IMBRACAMINTE,Puma,1
+1
+33,20.03.2019,true,CARD
+1
+1,telefon,5000.0,ELECTRONIC,Samsung,1
